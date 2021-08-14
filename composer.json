@@ -4,7 +4,8 @@
     "type": "project",
     "require": {
         "symfony/symfony": "5.4.x-dev",
-        "twig/twig": "3.x-dev"
+        "twig/twig": "3.x-dev",
+        "twbs/bootstrap": "^5.1"
     },
     "license": "GPLv3",
     "authors": [
