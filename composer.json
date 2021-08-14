@@ -1,0 +1,18 @@
+{
+    "name": "hybridized-concepts/storyteller",
+    "description": "A Content Managment Sysem focused on creating single use and multi user story archives and related content.",
+    "type": "project",
+    "require": {
+        "symfony/symfony": "5.4.x-dev",
+        "twig/twig": "3.x-dev"
+    },
+    "license": "GPLv3",
+    "authors": [
+        {
+            "name": "C.W. Smith",
+            "email": "cwsmith@hybridized-concepts.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "prefer-stable": true    
+}
