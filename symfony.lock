@@ -400,6 +400,9 @@
     "symfony/options-resolver": {
         "version": "v5.3.4"
     },
+    "symfony/orm-pack": {
+        "version": "v2.1.0"
+    },
     "symfony/password-hasher": {
         "version": "v5.3.4"
     },
@@ -579,6 +582,9 @@
     },
     "theseer/tokenizer": {
         "version": "1.2.1"
+    },
+    "twbs/bootstrap": {
+        "version": "v5.1.0"
     },
     "twig/extra-bundle": {
         "version": "v3.3.1"
